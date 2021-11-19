@@ -1,0 +1,16 @@
+﻿  Source.cpp
+C:\Users\nadav\Desktop\SFML\MySnake\Empty Project\GameLibrary.h(42,2): warning C4091: 'typedef ': ignored on left of 'Snake' when no variable is declared
+C:\Users\nadav\Desktop\SFML\MySnake\Empty Project\GameLibrary.h(47,2): warning C4091: 'typedef ': ignored on left of 'Apple' when no variable is declared
+C:\Users\nadav\Desktop\SFML\MySnake\Empty Project\Source.cpp(43,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nadav\Desktop\SFML\MySnake\Empty Project\Source.cpp(43,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nadav\Desktop\SFML\MySnake\Empty Project\Source.cpp(69,32): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\nadav\Desktop\SFML\MySnake\Empty Project\Source.cpp(70,36): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\nadav\Desktop\SFML\MySnake\Empty Project\Source.cpp(71,32): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\nadav\Desktop\SFML\MySnake\Empty Project\Source.cpp(210,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nadav\Desktop\SFML\MySnake\Empty Project\Source.cpp(210,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nadav\Desktop\SFML\MySnake\Empty Project\Source.cpp(232,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nadav\Desktop\SFML\MySnake\Empty Project\Source.cpp(232,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nadav\Desktop\SFML\MySnake\Empty Project\Source.cpp(256,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nadav\Desktop\SFML\MySnake\Empty Project\Source.cpp(255,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nadav\Desktop\SFML\MySnake\Empty Project\Source.cpp(193): warning C4715: 'collDetected': not all control paths return a value
+  Empty Project.vcxproj -> C:\Users\nadav\Desktop\SFML\MySnake\x64\Debug\Empty Project.exe
